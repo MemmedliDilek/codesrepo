@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello 
-=======
-salam 
->>>>>>> 90e60dfddc3eb195691b20fba9a7dd687a0509cd
+hello13
